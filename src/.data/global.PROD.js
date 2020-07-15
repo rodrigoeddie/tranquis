@@ -3,11 +3,11 @@ module.exports = {
     assets: './assets',
 
     title: 'Tranquis - Os pano monstro!',
-    description: '',
+    description: 'Camisas de time, entre em contato e conheça nosso catálogo.',
     share: {
         title: 'Tranquis - Os pano monstro!',
-        description: '',
-        image: ''
+        description: 'Camisas de time, entre em contato e conheça nosso catálogo.',
+        image: 'assets/images/share.jpg'
     },
     traking: {
         UA: false,
